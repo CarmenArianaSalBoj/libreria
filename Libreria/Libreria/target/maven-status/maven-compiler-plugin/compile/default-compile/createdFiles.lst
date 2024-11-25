@@ -1,0 +1,4 @@
+com\example\Libreria\LibreriaApplication.class
+com\example\Libreria\Repository\LibroRepository.class
+com\example\Libreria\controller\LibroController.class
+com\example\Libreria\model\Libro.class
